@@ -28,7 +28,7 @@ Enter 'home' to go back to the home page!
 
 After entering "nf" or "txt", you can enter the link and the program will start scraping the Riyasewama Weblink you paster :)
 
-~~ -------------------------------------------------------------- ~~
+
 
 # Format
 How the scraped data will be saved to a text file:
@@ -47,7 +47,7 @@ How the scraped data will be saved to a text file:
 
 7.Image Link:
 
-
+~~ -------------------------------------------------------------- ~~
 
 ### Example ###
 
