@@ -30,18 +30,22 @@ After entering "nf" or "txt", you can enter the link and the program will start 
 
 # Format
 How the scraped data will be saved to a text file:
- Markup : 1.Name:
-          2.Link:
-          3.Location:
-          4.Price:
-          5.Distance Travelled:
-          6.Date:
-          7.Image Link:
 
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+1.Name:
+
+2.Link:
+
+3.Location:
+
+4.Price:
+
+5.Distance Travelled:
+
+6.Date:
+
+7.Image Link:
+
+
 
 # Example
 Name: Toyota Prius S Grade 2014 Car
