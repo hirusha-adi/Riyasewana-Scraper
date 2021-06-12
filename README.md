@@ -47,11 +47,18 @@ How the scraped data will be saved to a text file:
 
 
 
-# Example
-Name: Toyota Prius S Grade 2014 Car
-Link: https://riyasewana.com/buy/toyota-prius-s-sale-negombo-3033798
-Location: Negombo
-Price: Rs.5,750,000
-Distance Travelled: 122000(km)
-Date: 2021-06-12
-Image Link: https://riyasewana.com/thumb/thumbtoyota-prius-s-12942391.jpg
+### Example ###
+
+**Name:** Toyota Prius S Grade 2014 Car
+
+**Link:** https://riyasewana.com/buy/toyota-prius-s-sale-negombo-3033798
+
+**Location:** Negombo
+
+**Price:** Rs.5,750,000
+
+**Distance Travelled:** 122000(km)
+
+**Date:** 2021-06-12
+
+**Image Link:** https://riyasewana.com/thumb/thumbtoyota-prius-s-12942391.jpg
