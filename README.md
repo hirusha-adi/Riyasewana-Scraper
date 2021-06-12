@@ -14,23 +14,34 @@ CLI:
 
 # CLI Usage
 Commands avaiable after you open the cli.py are -
-    NOTE: These commands only work in the Home Page
-    help --> Take you to this page
-    nf   --> Scrap without saving to a file
-    txt  --> Scrap and save to a text file
-    Enter 'home' to go back to the home page!
+
+NOTE: These commands only work in the Home Page
+
+help --> Take you to this page
+
+nf   --> Scrap without saving to a file
+
+txt  --> Scrap and save to a text file
+
+Enter 'home' to go back to the home page!
+
 
 After entering "nf" or "txt", you can enter the link and the program will start scraping the Riyasewama Weblink you paster :)
 
 # Format
 How the scraped data will be saved to a text file:
-    Name:
-    Link:
-    Location:
-    Price:
-    Distance Travelled:
-    Date:
-    Image Link:
+ Markup : 1.Name:
+          2.Link:
+          3.Location:
+          4.Price:
+          5.Distance Travelled:
+          6.Date:
+          7.Image Link:
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 
 # Example
 Name: Toyota Prius S Grade 2014 Car
