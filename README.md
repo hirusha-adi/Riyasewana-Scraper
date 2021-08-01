@@ -64,3 +64,8 @@ How the scraped data will be saved to a text file:
 **Date:** 2021-06-12
 
 **Image Link:** https://riyasewana.com/thumb/thumbtoyota-prius-s-12942391.jpg
+
+# Logo
+
+![riyasewana](https://user-images.githubusercontent.com/36286877/127775590-107fc644-b036-4845-9980-1d3d605967c2.png)
+
